@@ -33,6 +33,7 @@ public class Main {
                     //this is the goat
                     System.out.println("Revealing goat door: " + j);
                     goatDoor = j;
+                    break;
                 }
             }
 
